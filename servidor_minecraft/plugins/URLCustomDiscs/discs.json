@@ -1,0 +1,52 @@
+{
+    "lasmu_equitas": {
+        "customModelData": 1572288,
+        "displayName": "LasMu_equitas",
+        "uuid": "5c17fdcc-a764-4cf3-8d94-c012bf1274ba"
+    },
+    "ai-ai-ai-amor": {
+        "customModelData": 581632,
+        "displayName": "AI-AI-AI-AMOR",
+        "uuid": "3b88e001-b08a-44d5-9cb2-ecf50cbe656f"
+    },
+    "secreto-de-amor": {
+        "customModelData": 5666432,
+        "displayName": "Secreto-De-Amor",
+        "uuid": "03d67688-1ec4-4e86-804d-89ac9a90c915"
+    },
+    "amor-feliz": {
+        "customModelData": 5746544,
+        "displayName": "amor-feliz",
+        "uuid": "04d7af78-b799-4459-933a-8345cc791de7"
+    },
+    "luz-del-faro": {
+        "customModelData": 8288672,
+        "displayName": "LUZ-DEL-FARO",
+        "uuid": "9bfe79ac-d5c9-42ce-ac10-e7af33e573b3"
+    },
+    "cajita-feliz": {
+        "customModelData": 2621632,
+        "displayName": "cajita-feliz",
+        "uuid": "d02800c8-bd05-4ffd-b0a0-e5f2726bb19c"
+    },
+    "take-beach": {
+        "customModelData": 3267712,
+        "displayName": "Take-Beach",
+        "uuid": "9eb1dc81-fe7e-422d-8447-bcdd4ce5d4ed"
+    },
+    "lajumpa": {
+        "customModelData": 2757696,
+        "displayName": "lajumpa",
+        "uuid": "d0aa1444-5c4b-4aee-a22b-c98fe9762ad0"
+    },
+    "pero-es-un-ladron-one-pice": {
+        "customModelData": 855856,
+        "displayName": "pero-es-un-ladron-ONE-PICE",
+        "uuid": "2f0d0f39-2812-4728-bf82-0e998ac2d5d5"
+    },
+    "tutankamon": {
+        "customModelData": 4121504,
+        "displayName": "tutankamon",
+        "uuid": "4e3ee3a6-4963-4536-927c-4208d0904628"
+    }
+}
